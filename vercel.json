@@ -1,0 +1,8 @@
+{
+    "functions": {
+      "api/webhook/clerk": {
+        "maxDuration": 60
+      }
+    }
+  }
+  
